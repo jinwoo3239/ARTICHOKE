@@ -26,7 +26,7 @@ All analyses are organized into step-by-step subfolders within the `analysis` di
 If you need any additional files or information, please feel free to ask.
 
 ## License
-The code and datasets in this repository are provided for personal and academic reference only. For more details, please see the [LICENSE](./LICENSE) file.
+The code and datasets in this repository are provided for personal and academic reference only. For more details, please see the [LICENSE](./LICENSE.txt) file.
 
 ## First author
 * Jinwoo Kim
